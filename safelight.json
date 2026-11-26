@@ -1,0 +1,13 @@
+{
+  "id": "reference-view",
+  "name": "Reference View",
+  "version": "1.0.0",
+  "description": "Pins a reference photo beside the one you're editing in Develop, so you can match a set by eye. With Colour Mapping installed, match the photo's colours to the reference in one click.",
+  "author": "Anthony Reimche",
+  "main": "dist/index.js",
+  "license": "GPL-3.0-only",
+  "categories": ["Develop"],
+  "keywords": ["reference", "compare", "side by side", "match", "consistency", "develop"],
+  "repository": "anthonyreimche/Reference-View",
+  "minAppVersion": "3.2.8"
+}
